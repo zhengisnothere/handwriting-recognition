@@ -2,7 +2,7 @@
 """
 Created on Thu Dec 28 10:31:58 2023
 
-@author: userid
+@author: Zheng
 """
 import tkinter as tk
 import numpy as np
